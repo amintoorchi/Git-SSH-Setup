@@ -17,13 +17,10 @@ This script:
 6. ✅ Prepares your server for cloning private repositories securely
 
 ---
-
-## 🚀 Usage
-
 ### 🛠️ Run the script:
 
 ```bash
 bash Server-Setup.sh
 
 📂 Make the script executable :
-chmod +x Server-Setup.sh
+  chmod +x Server-Setup.sh
