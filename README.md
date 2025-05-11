@@ -1,4 +1,4 @@
-# 🔧 Server-Setup.sh
+# 🔧 Server-Setup
 
 Automate the initial setup of a fresh Linux server to securely connect with your GitHub account via SSH.  
 Perfect for DevOps workflows, private repo access, and server bootstrapping.
