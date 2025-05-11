@@ -23,7 +23,7 @@ This script:
 ### 🛠️ Run the script:
 
 ```bash
-bash setup-github.sh
+bash Server-Setup.sh
 
 📂 Make the script executable :
 chmod +x Server-Setup.sh
