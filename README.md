@@ -19,8 +19,8 @@ This script:
 ---
 ### 🛠️ Run the script:
 
-```bash
-bash Server-Setup.sh
-
 📂 Make the script executable :
+
+```bash
   chmod +x Server-Setup.sh
+```
